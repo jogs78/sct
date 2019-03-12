@@ -1,0 +1,32 @@
+table {
+	border-collapse: collapse;
+	border:1px solid #CCC;
+}
+
+table th {
+    font-weight: bold;
+    text-align: center;
+    background-color: #81BEF7; /*#c1d0ff; #CEE3F6*/
+    padding:5px;
+}
+
+table#Tablalista {
+	border-collapse: collapse;
+	border:1px solid #CCC;
+}
+
+table#Tablalista th {
+    font-weight: bold;
+    background-color: #F78181; /*#c1d0ff; #CEE3F6*/
+    padding:5px;
+}
+
+table#Tablalista tfoot {
+    font-weight: bold;
+    background-color: #FBEFEF; /*#c1d0ff; #CEE3F6*/
+    padding:5px;
+}
+
+table#Tablalista tbody tr:hover td {
+    background-color: #F3F3F3;
+}

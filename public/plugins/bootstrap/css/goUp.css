@@ -1,0 +1,21 @@
+.btn-subir{
+	display: none;
+	padding: 3px;
+	background: #00974B;
+	border-radius: 10%;
+	position: fixed;
+	right: 10px;
+	bottom: 20px;
+	z-index: 999999999;
+}
+
+.btn-subir:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.btn-subir i{
+	color: #fff;
+	font-size: 1.5em;
+	padding: 6px;
+}
+

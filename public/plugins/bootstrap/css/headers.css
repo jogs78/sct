@@ -1,0 +1,27 @@
+.header {
+	overflow: hidden;
+	background: #088A08;/*#4C9900*/
+    padding: 13px 28px;
+    color: #fff;
+    font-family: 'Raleway';
+
+}
+
+.header h2 {
+	float: right;
+    width: 85%;
+    padding-top: 5px;
+    text-align: right;
+}
+
+.header-right {
+	float: right;
+}
+
+.header-left {
+	float: left;
+    width: 15%;
+    padding-top: 5px;
+    text-align: left;
+}
+
